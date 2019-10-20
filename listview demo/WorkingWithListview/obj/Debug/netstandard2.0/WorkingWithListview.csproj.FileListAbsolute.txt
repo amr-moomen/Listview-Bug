@@ -1,0 +1,11 @@
+E:\tasks\listview demo\WorkingWithListview\bin\Debug\netstandard2.0\WorkingWithListview.deps.json
+E:\tasks\listview demo\WorkingWithListview\bin\Debug\netstandard2.0\WorkingWithListview.dll
+E:\tasks\listview demo\WorkingWithListview\bin\Debug\netstandard2.0\WorkingWithListview.pdb
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\HeaderFooter\HeaderFooterXaml.xaml.g.cs
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.csproj.CoreCompileInputs.cache
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.AssemblyInfoInputs.cache
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.AssemblyInfo.cs
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\XamlC.stamp
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.dll
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.pdb
+E:\tasks\listview demo\WorkingWithListview\obj\Debug\netstandard2.0\WorkingWithListview.csprojAssemblyReference.cache

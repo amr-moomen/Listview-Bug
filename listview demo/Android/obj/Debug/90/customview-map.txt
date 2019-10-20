@@ -1,0 +1,39 @@
+@string/appbar_scrolling_view_behavior;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\shellcontent.xml
+alpha;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\enterfromleft.xml
+alpha;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v4.widget.NestedScrollView;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+Button;obj\Debug\90\res\layout\main.xml
+color;obj\Debug\90\res\values\colors.xml
+FrameLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\bottomtablayout.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\layout\bottomtablayout.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\enterfromleft.xml
+set;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\enterfromright.xml
+set;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\exittoleft.xml
+set;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\exittoright.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+translate;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\enterfromleft.xml
+translate;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\enterfromright.xml
+translate;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\exittoleft.xml
+translate;E:\tasks\listview demo\Android\obj\Debug\90\lp\38\jl\res\anim\exittoright.xml
