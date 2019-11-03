@@ -11,7 +11,7 @@
                    Spacing="0"
                     VerticalOptions="FillAndExpand" BackgroundColor="Transparent">
 
-        <ListView x:Name="listView" SeparatorVisibility="None" 	ItemsSource="{Binding Monkeys}" 
+        <ListView x:Name="listView" HasUnevenRows="True" SeparatorVisibility="None" 	ItemsSource="{Binding Monkeys}" 
 	Header="{Binding Intro}" Footer="{Binding Summary}">
             <x:Arguments>
                 <ListViewCachingStrategy>RecycleElement</ListViewCachingStrategy>
